@@ -150,7 +150,7 @@
    
 ![ezgif com-video-to-gif-converted](https://github.com/KimGyoungTae/Public_TheAssociation_of_Exorcists/assets/83820089/176fb6ef-0f96-4ac1-b91f-77ebb9513e6e)
 
-3. 조사한 단서를 클릭 시 해당 단서에 대한 설명을 보여준다.<br> 질문에 대한 선택지가 각각 다르게 존재하고, 각 선택지를 클릭할 때 색상, 텍스트 변화를 확인할 수 있다.
+3. 질문에 대한 선택지가 각각 다르게 존재하고, 각 선택지를 클릭할 때 색상, 텍스트 변화를 확인할 수 있다.
 
 4. 각 질문에 대한 선택을 확정할 때 답안지에 기록이 된다.
 
